@@ -1,7 +1,6 @@
 Passive LAN Profiler
 ===
 
----
 One can gather a lot of information about corporate Local Area Network (LAN) environments by passively listening on these networks. This information can be used during the reconnaissance phase of a penetration test.
 
 This repository contains a proof of concept of this technique. The proof of concept parses a pcap capture, stores "interesting" data in a database, creates relationships between the data and generates a report of the gathered information.
